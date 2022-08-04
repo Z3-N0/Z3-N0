@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pramesh</h1>
-<p align="left"> <a href="https://twitter.com/@__z3no" target="blank"><img src="https://img.shields.io/twitter/follow/@__z3no?logo=twitter&style=for-the-badge" alt="@__z3no" /></a> </p>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif")
+<p align="left"> <a href="https://twitter.com/__z3no" target="blank"><img src="https://img.shields.io/twitter/follow/__z3no?logo=twitter&style=for-the-badge" alt="__z3no" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 - 🌱 I’m currently learning **Solidity, Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@__z3no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@__z3no" height="30" width="40" /></a>
+<a href="https://twitter.com/__z3no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__z3no" height="30" width="40" /></a>
 <a href="https://instagram.com/_.pramesh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.pramesh._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/z3n0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="z3n0" height="30" width="40" /></a>
 <a href="https://discord.gg/Z3NO《TYR》#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Z3NO《TYR》#0001" height="30" width="40" /></a>
