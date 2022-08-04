@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pramesh</h1>
+<h1 align="center">I'm Pramesh</h1>
 <p align="left"> <a href="https://twitter.com/__z3no" target="blank"><img src="https://img.shields.io/twitter/follow/__z3no?logo=twitter&style=for-the-badge" alt="__z3no" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 - 🌱 I’m currently learning **Solidity, Flask**
