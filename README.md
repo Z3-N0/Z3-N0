@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity, Flask**
 
-- 💬 Ask me about **Discord.py, Full-stack web development**
+- 💬 Ask me about **Discord.py, Full-stack web development, Amazon Web Services**
 
 - 📫 How to reach me **saravanpramesh@gmail.com**
 
